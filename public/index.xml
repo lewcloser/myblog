@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lew blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on lew blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <managingEditor>hugo@example.com (Lew&#39;s Blog)</managingEditor>
+    <webMaster>hugo@example.com (Lew&#39;s Blog)</webMaster>
+    <lastBuildDate>Mon, 04 Aug 2025 22:06:04 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 04 Aug 2025 22:06:04 +0800</pubDate><author>hugo@example.com (Lew&#39;s Blog)</author>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;简介 这是 &lt;strong&gt;粗体&lt;/strong&gt; 文本，这是 &lt;em&gt;斜体&lt;/em&gt; 文本。 访问 &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; 网站！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Mon, 04 Aug 2025 22:03:20 +0800</pubDate><author>hugo@example.com (Lew&#39;s Blog)</author>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;# 原始about.md&#xA;---&#xA;title: &amp;#34;关于&amp;#34;&#xA;date: 2020-02-02T16:23:32+08:00&#xA;draft: true&#xA;---&#xA;&#xA;# 修改后的about.md&#xA;---&#xA;title: &amp;#34;关于&amp;#34;&#xA;date: 2020-02-02T16:23:32+08:00&#xA;menu: &amp;#34;main&amp;#34;&#xA;weight: 60&#xA;comment: false&#xA;---&#xA;这是一个测试&#xA;&#xA;# menu让它出现在菜单栏，weight控制它在菜单栏的前后位置，comment控制此页面能否评论&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+  </channel>
+</rss>

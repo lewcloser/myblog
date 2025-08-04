@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on lew blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on lew blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <managingEditor>hugo@example.com (Lew&#39;s Blog)</managingEditor>
+    <webMaster>hugo@example.com (Lew&#39;s Blog)</webMaster>
+    <lastBuildDate>Mon, 04 Aug 2025 22:06:04 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 04 Aug 2025 22:06:04 +0800</pubDate><author>hugo@example.com (Lew&#39;s Blog)</author>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;简介 这是 &lt;strong&gt;粗体&lt;/strong&gt; 文本，这是 &lt;em&gt;斜体&lt;/em&gt; 文本。 访问 &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; 网站！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
