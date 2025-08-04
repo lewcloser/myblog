@@ -1,4 +1,4 @@
-baseURL = 'https://lew-cloud.github.io/myblog/'
+baseURL = 'https://example.org/'
 languageCode = 'zh-cn'
 title = 'lew blog'
 theme = "nightfall"
