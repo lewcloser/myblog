@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lew-cloud.github.io/'
 languageCode = 'zh-cn'
 title = 'lew blog'
 theme = "nightfall"
@@ -6,11 +6,11 @@ theme = "nightfall"
 color = "pink"
 [params]
 user = "lew"
-hostname = "oomkill.io"
+hostname = "github.io"
 
   [params.author]
     name = "Lew's Blog"
-    email = "hugo@example.com"
+    email = "julianlew9@gmail.com"
     avatarFirst = false
 [menu]
   [[menu.header]]
