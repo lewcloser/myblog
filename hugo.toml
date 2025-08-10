@@ -1,6 +1,6 @@
-baseURL = 'https://lew-cloud.github.io/'
+baseURL = 'https://lewcloser.github.io/'
 languageCode = 'zh-cn'
-title = 'lew blog'
+title = 'lew closer'
 theme = "nightfall"
 [params.styles]
 color = "pink"
@@ -9,7 +9,7 @@ user = "lew"
 hostname = "github.io"
 
   [params.author]
-    name = "Lew's Blog"
+    name = "Lew"
     email = "julianlew9@gmail.com"
     avatarFirst = false
 [menu]
